@@ -96,4 +96,4 @@ K드라마에 대해 전반적으로 분석하여 어떤 특징의 드라마가 
 
 ### Detail
 
-![Alt text](./images/drama_page.png)
+![Alt text](./images/drama_webpage.png)
